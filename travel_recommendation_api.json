@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Bondi Beach",
+        "category": "beach",
+        "description": "A stunning beach located in Sydney, Australia.",
+        "imageUrl": "bondi-beach.jpg"
+    },
+    {
+        "name": "Goa Beaches",
+        "category": "beach",
+        "description": "Beautiful beaches with vibrant nightlife in Goa, India.",
+        "imageUrl": "goa-beach.jpg"
+    },
+    {
+        "name": "Taj Mahal",
+        "category": "temple",
+        "description": "A historic temple and UNESCO World Heritage Site in India.",
+        "imageUrl": "taj-mahal.jpg"
+    },
+    {
+        "name": "Angkor Wat",
+        "category": "temple",
+        "description": "A magnificent temple complex in Cambodia.",
+        "imageUrl": "angkor-wat.jpg"
+    },
+    {
+        "name": "New York",
+        "category": "country",
+        "description": "A bustling city known for its iconic landmarks.",
+        "imageUrl": "new-york.jpg"
+    },
+    {
+        "name": "Tokyo",
+        "category": "country",
+        "description": "A vibrant city blending tradition and technology.",
+        "imageUrl": "tokyo.jpg"
+    }
+]
